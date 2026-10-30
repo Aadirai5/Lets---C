@@ -1,0 +1,100 @@
+Day 15 — Pointers basics
+
+Learn: Memory addresses, &, *, pointer declaration, dereferencing, NULL.
+
+Practice:
+- Print the address of a variable.
+- Access a value using a pointer.
+- Swap two numbers using pointers.
+- Modify a variable through a function using a pointer.
+
+
+
+16
+
+Day 16 — Advanced pointers
+
+Learn: Pointer arithmetic, pointers and arrays, pointers and strings, double pointers (int **), array of pointers, pointer to array.
+
+Practice:
+- Traverse an array using a pointer.
+- Reverse an array using pointers.
+- Access a string using a pointer.
+- Use a pointer to pointer to modify a variable.
+- Understand the difference between int *p[5] and int (*p)[5].
+
+
+
+17
+
+Day 17 — Dynamic memory allocation
+
+Learn: Stack versus heap, malloc(), calloc(), realloc(), free(), memory leaks, dangling pointers.
+
+Practice:
+- Allocate an integer dynamically.
+- Create an array whose size is entered by the user.
+- Resize an array using realloc().
+- Find the sum of dynamically allocated array elements.
+- Free all allocated memory safely.
+
+
+
+18
+
+Day 18 — Structures, unions and enums
+
+Learn: struct, nested structures, arrays of structures, union, enum, typedef, . and ->.
+
+Practice:
+- Store student details using a structure.
+- Create an array of student records.
+- Make an employee record system.
+- Compare the memory usage of a structure and a union.
+- Use an enum for menu choices or device states.
+
+
+
+19
+
+Day 19 — File handling
+
+Learn: FILE *, fopen(), fclose(), fprintf(), fscanf(), fgets(), fputs(), fread(), fwrite(), file modes, EOF.
+
+Practice:
+- Write text into a file.
+- Read and display file contents.
+- Append new records.
+- Count lines and words in a file.
+- Save and retrieve student records.
+
+
+
+20
+
+Day 20 — Bitwise operators
+
+Learn: &, |, ^, ~, <<, >>, bit masks, setting, clearing, toggling, and testing bits.
+
+Practice:
+- Check whether a number is odd or even using a bitwise operator.
+- Set a particular bit.
+- Clear a particular bit.
+- Toggle a particular bit.
+- Check whether a particular bit is set.
+Important for ECE: These concepts are useful in register manipulation and embedded systems.
+
+
+
+21
+
+Day 21 — Preprocessor and C program organization
+
+Learn: #include, #define, macros, conditional compilation (#if, #ifdef, #ifndef), header guards, separate source and header files, static, const, volatile, sizeof.
+
+Practice:
+- Create macros for square and maximum of two values.
+- Make your own header file.
+- Split a calculator into .c and .h files.
+- Use conditional compilation to enable debugging output.
+- Compare const pointers and pointers to const data.

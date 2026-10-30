@@ -1,0 +1,131 @@
+Day 22 — Function pointers and command-line arguments
+
+Learn: Function pointers, callbacks, passing functions as arguments, argc, argv, program arguments.
+
+Practice:
+- Make a calculator using function pointers.
+- Pass an array and its size to a function.
+- Write a program that adds two numbers supplied through command-line arguments.
+- Build a menu using function pointers.
+
+
+
+23
+
+Day 23 — Linked lists
+
+Learn: Self-referential structures, nodes, malloc(), traversal, insertion, deletion.
+
+Practice:
+- Create a singly linked list.
+- Insert a node at the beginning and end.
+- Delete a node by value.
+- Search for a value.
+- Reverse a linked list.
+
+
+
+24
+
+Day 24 — Stack and queue
+
+Learn: LIFO, FIFO, array-based stack, queue, circular queue, overflow and underflow.
+
+Practice:
+- Implement stack push, pop, and peek.
+- Implement queue enqueue and dequeue.
+- Build a circular queue.
+- Reverse a string using a stack.
+
+
+
+25
+
+Day 25 — Advanced data structures and algorithms
+
+Learn: Binary trees, tree traversals, binary search trees, time complexity, space complexity, Big-O notation.
+
+Practice:
+- Build a simple binary tree.
+- Implement inorder, preorder, and postorder traversal.
+- Insert values into a binary search tree.
+- Search for and count nodes in the tree.
+- Compare linear search and binary search complexity.
+
+
+
+26
+
+Day 26 — Debugging, errors and safe C
+
+Learn: Syntax errors, logical errors, runtime errors, compiler warnings, debugging, assertions, undefined behavior, bounds checking.
+
+Practice:
+- Find and fix 10 intentionally broken programs.
+- Identify an array out-of-bounds error.
+- Fix a null-pointer bug.
+- Fix a memory leak.
+- Compile with warnings enabled, for example gcc -Wall -Wextra -g main.c -o main.
+Learn to test edge cases such as zero, negative numbers, empty strings, and maximum input sizes.
+
+
+
+27
+
+Day 27 — Advanced C concepts
+
+Learn: Storage duration and linkage, volatile, const, restrict, typedef, type qualifiers, integer overflow, implementation-defined behavior, portability.
+
+Practice:
+- Write a generic-looking swap function using separate functions for different types.
+- Use qsort() with a comparison function.
+- Create a lookup table using an array of function pointers.
+- Explore how sizeof behaves with arrays and pointers.
+- Research why volatile matters for memory-mapped hardware registers.
+
+
+
+28
+
+Day 28 — Project 1: Student management system
+
+Build a command-line application with:
+- Add, view, search, update, and delete student records.
+- Store name, roll number, and marks using structures.
+- Save and load records from a file.
+- Use functions to organize the program.
+- Validate input and handle file errors.
+Challenge: Make the data persist after the program closes.
+
+
+
+29
+
+Day 29 — Project 2: Inventory or banking system
+
+Build a menu-driven application with:
+- Account creation or product registration.
+- Deposit and withdrawal, or stock additions and sales.
+- Search and update records.
+- File-based data persistence.
+- Input validation and transaction history.
+Use structures, arrays or linked lists, functions, and file handling.
+
+Challenge: Separate the code into multiple .c and .h files.
+
+
+
+30
+
+Day 30 — Final boss challenge
+
+Create a Library Management System in C from scratch.
+
+Requirements:
+- Add, display, search, update, and delete books.
+- Issue and return books.
+- Store records in files.
+- Use structures, pointers, and dynamic memory where appropriate.
+- Organize the code using functions and separate files.
+- Validate inputs and handle errors.
+- Test the program with at least 10 different cases

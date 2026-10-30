@@ -1,0 +1,96 @@
+Day 8 — Functions
+
+Learn: Function declaration, definition, function call, parameters, return values, local and global variables, scope, storage classes (auto, static, extern, register).
+
+Practice:
+- Create functions for addition and multiplication.
+- Make a function to check prime numbers.
+- Find the maximum of three numbers using a function.
+- Make a menu-driven calculator using functions.
+
+
+
+09
+
+Day 9 — One-dimensional arrays
+
+Learn: Array declaration, initialization, indexing, traversal, updating elements.
+
+Practice:
+- Input and print 10 numbers.
+- Find the maximum and minimum element.
+- Calculate the sum and average of an array.
+- Reverse an array.
+- Count even and odd elements.
+
+
+
+10
+
+Day 10 — Two-dimensional arrays
+
+Learn: Matrices, nested loops, rows and columns.
+
+Practice:
+- Add two matrices.
+- Subtract two matrices.
+- Find the transpose of a matrix.
+- Calculate diagonal sums.
+- Multiply two matrices.
+
+
+
+11
+
+Day 11 — Strings
+
+Learn: Character arrays, null terminator '\0', fgets(), puts(), and functions from <string.h>.
+
+Practice:
+- Find string length without strlen().
+- Reverse a string without a built-in reverse function.
+- Check whether a string is a palindrome.
+- Count vowels, consonants, digits, and spaces.
+- Compare two strings.
+
+
+
+12
+
+Day 12 — Searching and sorting
+
+Learn: Linear search, binary search, bubble sort, selection sort, insertion sort, time complexity basics.
+
+Practice:
+- Search for an element in an array.
+- Implement binary search on a sorted array.
+- Sort numbers in ascending and descending order.
+- Find the second-largest element.
+- Remove duplicate values from an array.
+
+
+
+13
+
+Day 13 — Recursion
+
+Learn: Base case, recursive case, call stack, recursion versus iteration.
+
+Practice:
+- Calculate factorial recursively.
+- Print the Fibonacci sequence.
+- Find the sum of digits recursively.
+- Find the power of a number.
+- Solve Tower of Hanoi.
+
+
+
+14
+
+Day 14 — Week 2 revision challenge
+
+Practice:
+- Build a student marks management program using arrays and functions.
+- Search for a student's marks.
+- Sort students' marks.
+- Find the class average and highest score.
