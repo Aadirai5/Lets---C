@@ -140,7 +140,6 @@ Practice:
 Day 13 — Recursion
 Learn: Base case, recursive case, call stack, recursion versus iteration.
 
-Practice:
 -     Calculate factorial recursively.
 -     Print the Fibonacci sequence.
 -     Find the sum of digits recursively.
@@ -152,7 +151,6 @@ Practice:
 
 Day 14 — Week 2 revision challenge
 
-Practice:
 -     Build a student marks management program using arrays and functions.
 -     Search for a student's marks.
 -     Sort students' marks.
